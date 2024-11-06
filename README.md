@@ -37,9 +37,10 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 <details>
   <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Introdução ao HTML e CSS </summary>
   <p align="justify">
-Neste módulo, exploramos os conceitos de HTML e CSS, aprendendo a estruturar o conteúdo de forma semântica para melhorar a acessibilidade e a organização do código. Também trabalhamos com o Figma para criar e visualizar layouts, aplicando fontes e cores personalizadas no nosso projeto para reforçar a identidade visual.
-
-Além disso, nos aprofundamos nos fundamentos de posicionamento e espaçamento de elementos, utilizando o Box Model e o Flexbox do CSS para construir layouts flexíveis e alinhados com precisão.
+    Neste módulo, exploramos os conceitos de HTML e CSS, aprendendo a estruturar o conteúdo de forma semântica para melhorar a acessibilidade e a organização do código. Também trabalhamos com o Figma para criar e visualizar layouts, aplicando fontes e cores personalizadas no nosso projeto para reforçar a identidade visual.
+  </p>
+  <p align="justify">
+    Além disso, nos aprofundamos nos fundamentos de posicionamento e espaçamento de elementos, utilizando o Box Model e o Flexbox do CSS para construir layouts flexíveis e alinhados com precisão.
   </p>
 
   [Repositorio do módulo](https://github.com/Gelzieny/introducao_html_css.git)
