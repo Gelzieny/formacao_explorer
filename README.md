@@ -4,10 +4,9 @@
   </a>
 </p>
 
-## Books Sobre a formação
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Sobre a formação
 
 <p align="justify">
-
 Concluí a formação Explorer da Rocketseat, e foi uma experiência incrível para desenvolver uma base sólida em desenvolvimento web. Ela começa com os fundamentos de HTML, CSS e JavaScript e avança para frameworks e bibliotecas essenciais no mercado, o que me deu uma visão completa e prática da área.
 </p>
 
@@ -20,8 +19,19 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 </p>
 
 
-### Linguagens e Tecnologias
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Scroll.png?raw=true" alt="Books" width="30" height="30" /> Linguagens e Tecnologias
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,node,react" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,nodejs,react" />
 </a>
+
+### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="Books" width="30" height="30" /> Módulos
+
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Introdução ao HTML e CSS </summary>
+  <p>
+Neste módulo, exploramos os conceitos de HTML e CSS, aprendendo a estruturar o conteúdo de forma semântica para melhorar a acessibilidade e a organização do código. Também trabalhamos com o Figma para criar e visualizar layouts, aplicando fontes e cores personalizadas no nosso projeto para reforçar a identidade visual.
+
+Além disso, nos aprofundamos nos fundamentos de posicionamento e espaçamento de elementos, utilizando o Box Model e o Flexbox do CSS para construir layouts flexíveis e alinhados com precisão.
+  </p>
+</details>
