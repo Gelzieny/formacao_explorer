@@ -28,6 +28,13 @@ Agora que finalizei a formação, sinto que tenho as habilidades para construir 
 ### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Writing%20Hand%20Light%20Skin%20Tone.png?raw=true" alt="Books" width="30" height="30" /> Módulos
 
 <details>
+  <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Fire.png?raw=true" alt="Alien" width="25" height="25" /> Fundamentos da Web </summary>
+  <p align="justify"> 
+    Neste módulo, abordamos os conceitos fundamentais da programação, explorando o que significa programar, os motivos para aprender essa habilidade e como aplicá-la de forma prática. Com isso, entendemos a importância da programação para resolver problemas, automatizar tarefas e criar soluções eficientes.
+  </p>
+</details>
+
+<details>
   <summary> <img src="https://github.com/Gelzieny/tarikul-islam-anik/blob/main/assets/images/Star.png?raw=true" alt="Alien" width="25" height="25" /> Introdução ao HTML e CSS </summary>
   <p align="justify">
 Neste módulo, exploramos os conceitos de HTML e CSS, aprendendo a estruturar o conteúdo de forma semântica para melhorar a acessibilidade e a organização do código. Também trabalhamos com o Figma para criar e visualizar layouts, aplicando fontes e cores personalizadas no nosso projeto para reforçar a identidade visual.
@@ -38,3 +45,4 @@ Além disso, nos aprofundamos nos fundamentos de posicionamento e espaçamento d
   [Repositorio do módulo](https://github.com/Gelzieny/introducao_html_css.git)
 
 </details>
+
