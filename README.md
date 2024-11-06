@@ -34,4 +34,7 @@ Neste módulo, exploramos os conceitos de HTML e CSS, aprendendo a estruturar o 
 
 Além disso, nos aprofundamos nos fundamentos de posicionamento e espaçamento de elementos, utilizando o Box Model e o Flexbox do CSS para construir layouts flexíveis e alinhados com precisão.
   </p>
+
+  [Repositorio do módulo](https://github.com/Gelzieny/introducao_html_css.git)
+
 </details>
